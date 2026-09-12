@@ -1,7 +1,7 @@
 export default {
 	URLS: "div.card-body h4.title > a",
 	AUTHOR: "div.author",
-	TITLE: "div.question > h4",
+	TITLE: "div.question > h2",
 	QUESTION: "div.content-body:nth-child(4)",
 	ANSWER: "div.answer.approved .content-body",
 	ASKED_TIMESTAMP: "div.details:nth-child(3) > div:nth-child(2)",

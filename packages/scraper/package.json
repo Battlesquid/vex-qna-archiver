@@ -1,6 +1,6 @@
 {
 	"name": "@qnaplus/scraper",
-	"version": "3.1.6",
+	"version": "3.1.7",
 	"description": "Utility package to scrape questions from the VEX Robotics Q&A.",
 	"main": "dist/index.js",
 	"repository": {
